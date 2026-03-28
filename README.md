@@ -22,23 +22,22 @@ Aqui estão as linguagens e tecnologias que utilizo nos meus estudos diários:
 
 ## 📊 Estatísticas do GitHub
 ### 📊 Minhas Estatísticas
-Aqui você pode acompanhar minha evolução e o tempo dedicado ao código:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Naldo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas de Dev-Naldo" />
-  
-  <br><br>
+![Status do GitHub de Reinaldo](https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&theme=radical)
+### 📫 Vamos nos conectar?
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Naldo&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Linguagens mais usadas" />
-  
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Naldo&theme=radical" alt="Sequência de contribuições" />
-</p>
-
-## 📫 Como me encontrar
-* **LinkedIn:** [Reinaldo Celestino](https://www.linkedin.com/in/reinaldo-celestino-6990132b4?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-* **E-mail:** contato.reinaldocelestino@gmail.com
+<div align="left">
+  <a href="https://www.linkedin.com/in/reinaldo-celestino-6990132b4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/reinaldo__celestino" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:seu.email@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
 ---
 *“A melhor forma de prever o futuro é inventá-lo.”*
