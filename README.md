@@ -3,7 +3,7 @@
 Estudante de **Engenharia de Software** na **Universidade Positivo (Ecoville)**. Atualmente focado em desenvolver bases sólidas em desenvolvimento web e lógica de programação.
 
 ## 🚀 Sobre Mim
-* 🎓 Cursando o 1º período de Engenharia de Software.
+* 🎓 Cursando o 2º período de Engenharia de Software.
 * 💻 Interessado em arquitetura de sistemas e criação de interfaces modernas.
 * ✍️ Gosto de documentar meus aprendizados e projetos acadêmicos aqui no GitHub.
 
